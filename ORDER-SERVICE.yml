@@ -1,0 +1,5 @@
+payment-service:
+ uri: http://PAYMENT-SERVICE/payment/doPayment
+        
+order-service:
+ uri: http://ORDER-SERVICE/order/bookOrder
