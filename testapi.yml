@@ -1,3 +1,7 @@
+spring:
+ application:
+  name: testapi
+
 payment-service:
  uri: http://PAYMENT-SERVICE/payment/doPayment
         
